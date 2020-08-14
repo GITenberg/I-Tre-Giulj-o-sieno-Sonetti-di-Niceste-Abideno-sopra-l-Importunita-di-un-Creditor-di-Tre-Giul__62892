@@ -1,0 +1,33 @@
+_repo: I-Tre-Giulj-o-sieno-Sonetti-di-Niceste-Abideno-sopra-l-Importunita-di-un-Creditor-di-Tre-Giul__62892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casti, Giovanni Battista
+    aliases:
+    - Casti, Giovan Battista
+    - Casti, Giambattista
+    - Casi, Giambattista
+    birthdate: 1724
+    deathdate: 1803
+    gutenberg_agent_id: '52176'
+    url: http://www.gutenberg.org/2009/agents/52176
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Giovanni_Battista_Casti
+    - https://it.wikipedia.org/wiki/Giovanni_Battista_Casti
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62892'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- 18th century'
+- !lcc 'PQ'
+- !lcsh 'Sonnets, Italian'
+- GITenberg
+title: "I Tre Giulj\r\no sieno Sonetti di Niceste Abideno sopra l'Importunità di\r\
+  \nun Creditor di Tre Giulj"
+url: http://www.gutenberg.org/ebooks/62892
